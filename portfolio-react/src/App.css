@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #282c34;
+  color: white;
+}
+
+h2 {
+  padding-top: 15px;
+}
+
+nav a {
+  color:#61dafb;
+  padding: 2%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c671e8;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 25px;
+}
+
+caption {
+  font-size: 25px;
+  margin: 3%;
+  width: auto;
+  color: #61dafb;
+}
+
+tr th {
+  font-size: 17px;
+  border: 1px solid #b3caf5;
+  padding: auto;
+}
+
+tr td {
+  font-size: 12px;
+  border: 1px solid #b3caf5;
+  height: 20px;
+  width: 150px;
+}
+
+input {
+  padding: 7px;
+}
+
+button{
+  margin: 15px;
+  padding: 7px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form {
+  margin: 15px;
+}
