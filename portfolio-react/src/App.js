@@ -26,9 +26,6 @@ function App() {
             <Route path='/Items'>
               <Items />
             </Route>
-            <Route path='/Weather'>
-              <Weather />
-            </Route>
             <Route path='/Stores'>
               <Stores />
             </Route>

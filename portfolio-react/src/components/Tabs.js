@@ -7,7 +7,6 @@ function Tabs() {
             <Link to='/'>Homepage</Link>
             <Link to='/Items'>Items</Link>
             <Link to='/Stores'>Stores</Link>
-            <Link to='/Weather'>Weather</Link>
         </nav>
     )
 }
