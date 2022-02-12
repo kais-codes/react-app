@@ -16,7 +16,7 @@ function App() {
     <div className='App'>
         <Router>
           <header>
-            <h1>Basic React App</h1>
+            <h1>SPA built with React</h1>
           </header>
           <Tabs />
           <main>
@@ -25,6 +25,9 @@ function App() {
             </Route>
             <Route path='/Items'>
               <Items />
+            </Route>
+            <Route path='/Weather'>
+              <Weather />
             </Route>
             <Route path='/Stores'>
               <Stores />

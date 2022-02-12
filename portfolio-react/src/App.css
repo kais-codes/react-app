@@ -68,3 +68,8 @@ button{
 form {
   margin: 15px;
 }
+
+.iconSize {
+  font-size: 7em;
+  padding: 2%;
+}
